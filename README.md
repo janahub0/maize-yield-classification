@@ -15,4 +15,10 @@ You can open the downloaded `.ipynb` file with Jupyter Notebook, JupyterLab, or 
 - NumPy  
 - Jupyter Notebook
 
+## Project Files
+
+- **Maize_Yield_Classification.ipynb** — Jupyter Notebook with the full data analysis and machine learning code.  
+- **Maize_Yield_Report.pdf** — Detailed project report covering research, methodology, and results.  
+- **Maize_Yield_Presentation.pdf** — Slide deck summarizing the project highlights and key findings.
+
 Thank you for checking out my project!
